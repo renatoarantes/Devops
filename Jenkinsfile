@@ -1,6 +1,6 @@
 @Library("projetas-library") _
 
-PROJECT_NAME = "WebApplication1"
+PROJECT_NAME = "web-application-1"
 PROJECT_VERSION = "${env.BRANCH_NAME}:${BUILD_ID}"
 
 def config = [
